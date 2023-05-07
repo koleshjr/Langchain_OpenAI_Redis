@@ -1,0 +1,4 @@
+redis
+sentence-transformers
+openai
+langchain
